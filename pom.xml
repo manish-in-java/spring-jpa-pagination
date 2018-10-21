@@ -263,7 +263,7 @@
     <hibernate.version>4.3.11.Final</hibernate.version>
     <hibernate.validator.version>5.2.4.Final</hibernate.validator.version>
     <hikari.version>2.4.6</hikari.version>
-    <jackson.version>2.7.4</jackson.version>
+    <jackson.version>2.9.7</jackson.version>
     <jqgrid.version>4.7.0</jqgrid.version>
     <jquery.version>2.2.0</jquery.version>
     <jquery.ui.version>1.12.1</jquery.ui.version>
@@ -272,7 +272,7 @@
     <querydsl.version>3.7.3</querydsl.version>
     <servlet.version>3.1.0</servlet.version>
     <slf4j.version>1.7.21</slf4j.version>
-    <spring.version>4.2.6.RELEASE</spring.version>
+    <spring.version>4.3.20.RELEASE</spring.version>
     <spring.data.jpa.version>1.9.4.RELEASE</spring.data.jpa.version>
     <thymeleaf.version>2.1.4.RELEASE</thymeleaf.version>
   </properties>
