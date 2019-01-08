@@ -263,7 +263,7 @@
     <hibernate.version>4.3.11.Final</hibernate.version>
     <hibernate.validator.version>5.2.4.Final</hibernate.validator.version>
     <hikari.version>2.4.6</hikari.version>
-    <jackson.version>2.9.7</jackson.version>
+    <jackson.version>[2.9.8,)</jackson.version>
     <jqgrid.version>4.7.0</jqgrid.version>
     <jquery.version>2.2.0</jquery.version>
     <jquery.ui.version>1.12.1</jquery.ui.version>
